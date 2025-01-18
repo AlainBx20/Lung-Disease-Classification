@@ -29,6 +29,8 @@ Normal: Contains images of healthy lungs.
 
 Lung_Opacity: Contains images of lungs with opacity (disease signs).
 
+both can be found in (lung.rar) make sure to extract them in the same folder as the source codes !
+
 
 Usage
 1) Preprocessing and Model Training
